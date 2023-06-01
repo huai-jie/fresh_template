@@ -1,7 +1,7 @@
 import { HandlerContext } from "$fresh/server.ts";
 
 // Jokes courtesy of https://punsandoneliners.com/randomness/programmer-jokes/
-const JOKES = [
+const _JOKES = [
   "Why do Java developers often wear glasses? They can't C#.",
   "A SQL query walks into a bar, goes up to two tables and says “can I join you?”",
   "Wasn't hard to crack Forrest Gump's password. 1forrest1.",
